@@ -3,8 +3,8 @@ Investigating the impact of residential solar PV system integration on power qua
 Completed: November 2022
 
 Files included: 
-Thesis Report
-Presentation Slideshow
+Thesis Report,
+Presentation Slideshow,
 Poster
  
 Summary:
